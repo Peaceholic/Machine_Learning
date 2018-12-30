@@ -1,9 +1,5 @@
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
-import pandas as pd
-import mglearn
-from pandas.plotting import scatter_matrix
-import matplotlib.pyplot as plt
 from sklearn.neighbors import KNeighborsClassifier
 import numpy as np
 
