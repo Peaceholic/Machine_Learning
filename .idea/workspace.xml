@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="575e72ee-bb24-4f51-9867-089a090d2162" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Multilayer_Perceptron_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multilayer_Perceptron_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decision_Function_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decistion_Function_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Predict_Probability_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Predict_Probability_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multilayer_Perceptron_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Multilayer_Perceptron_2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +54,7 @@
     <session id="1553560794">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="8" />
           <entry key="project.open.time.5" value="1" />
@@ -62,27 +64,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="96" />
-          <entry key="py" value="15939" />
+          <entry key="dummy" value="147" />
+          <entry key="py" value="18478" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="96" />
-          <entry key="Python" value="15939" />
+          <entry key="PLAIN_TEXT" value="147" />
+          <entry key="Python" value="18478" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="dot" value="1" />
           <entry key="md" value="2" />
-          <entry key="py" value="51" />
+          <entry key="py" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="51" />
+          <entry key="Python" value="55" />
         </counts>
       </usages-collector>
     </session>
@@ -102,23 +104,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Multilayer_Perceptron_1.py">
+        <entry file="file://$PROJECT_DIR$/Decistion_Function_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="361">
+              <caret line="19" column="53" lean-forward="true" selection-start-line="16" selection-end-line="19" selection-end-column="53" />
               <folding>
-                <element signature="e#0#31#0" expanded="true" />
+                <element signature="e#1#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Multilayer_Perceptron_2.py">
+        <entry file="file://$PROJECT_DIR$/Predict_Probability_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="22" column="59" lean-forward="true" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+            <state relative-caret-position="133">
+              <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
               <folding>
-                <element signature="e#0#35#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -139,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Numpy.py" />
         <option value="$PROJECT_DIR$/Scipy.py" />
         <option value="$PROJECT_DIR$/Matplotlib.py" />
         <option value="$PROJECT_DIR$/Panda.py" />
@@ -184,7 +186,13 @@
         <option value="$PROJECT_DIR$/SVM_2.py" />
         <option value="$PROJECT_DIR$/Multilayer_Perceptron.py" />
         <option value="$PROJECT_DIR$/Multilayer_Perceptron_1.py" />
+        <option value="$PROJECT_DIR$/Uncertainty.py" />
+        <option value="$PROJECT_DIR$/Decision_Function.py" />
         <option value="$PROJECT_DIR$/Multilayer_Perceptron_2.py" />
+        <option value="$PROJECT_DIR$/Predict_Probability.py" />
+        <option value="$PROJECT_DIR$/Multiple_Classification_Uncertainty.py" />
+        <option value="$PROJECT_DIR$/Decistion_Function_2.py" />
+        <option value="$PROJECT_DIR$/Predict_Probability_2.py" />
       </list>
     </option>
   </component>
@@ -232,8 +240,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Multilayer_Perceptron_2">
-    <configuration name="Multilayer_Perceptron" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Predict_Probability_2">
+    <configuration name="Decision_Function" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine_Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -245,7 +253,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\enflw\PyCharmProjects\Machine_Learning\Multilayer_Perceptron_1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\enflw\PyCharmProjects\Machine_Learning\Decision_Function_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,7 +262,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Multilayer_Perceptron_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Decistion_Function_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine_Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -266,7 +274,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multilayer_Perceptron_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Decistion_Function_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,7 +283,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Non_Linear" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Multiple_Classification_Uncertainty" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine_Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -287,7 +295,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Non_Linear.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\enflw\PyCharmProjects\Machine_Learning\Decistion_Function_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -296,7 +304,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SVM" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Predict_Probability" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine_Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -308,7 +316,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\enflw\PyCharmProjects\Machine_Learning\SVM_1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\enflw\PyCharmProjects\Machine_Learning\Predict_Probability_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -317,7 +325,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SVM_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Predict_Probability_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine_Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -329,7 +337,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SVM_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Predict_Probability_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -339,19 +347,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Non_Linear" />
-      <item itemvalue="Python.SVM" />
-      <item itemvalue="Python.SVM_2" />
-      <item itemvalue="Python.Multilayer_Perceptron" />
-      <item itemvalue="Python.Multilayer_Perceptron_2" />
+      <item itemvalue="Python.Decision_Function" />
+      <item itemvalue="Python.Predict_Probability" />
+      <item itemvalue="Python.Multiple_Classification_Uncertainty" />
+      <item itemvalue="Python.Decistion_Function_2" />
+      <item itemvalue="Python.Predict_Probability_2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Multilayer_Perceptron_2" />
-        <item itemvalue="Python.Multilayer_Perceptron" />
-        <item itemvalue="Python.SVM_2" />
-        <item itemvalue="Python.SVM" />
-        <item itemvalue="Python.Non_Linear" />
+        <item itemvalue="Python.Predict_Probability_2" />
+        <item itemvalue="Python.Decistion_Function_2" />
+        <item itemvalue="Python.Multiple_Classification_Uncertainty" />
+        <item itemvalue="Python.Predict_Probability" />
+        <item itemvalue="Python.Decision_Function" />
       </list>
     </recent_temporary>
   </component>
@@ -366,7 +374,7 @@
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32506886" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32506886" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -615,6 +623,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Multilayer_Perceptron_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#1#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Decision_Function_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="32" lean-forward="true" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <element signature="e#1#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Imports.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -625,12 +652,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Multilayer_Perceptron_2.py">
+    <entry file="file://$PROJECT_DIR$/Predict_Probability_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="22" column="59" lean-forward="true" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+        <state relative-caret-position="665">
+          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
           <folding>
-            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Decistion_Function_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="53" lean-forward="true" selection-start-line="16" selection-end-line="19" selection-end-column="53" />
+          <folding>
+            <element signature="e#1#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Predict_Probability_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
