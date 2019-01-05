@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="575e72ee-bb24-4f51-9867-089a090d2162" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Movie_Review.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eigenface_NMF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eigenface_PCA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PCA_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PCA_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,37 +54,37 @@
     <session id="1553560794">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="9" />
+          <entry key="project.open.time.4" value="10" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="157" />
-          <entry key="py" value="21453" />
+          <entry key="dummy" value="163" />
+          <entry key="py" value="25021" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="157" />
-          <entry key="Python" value="21453" />
+          <entry key="PLAIN_TEXT" value="163" />
+          <entry key="Python" value="25021" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="dot" value="1" />
           <entry key="md" value="2" />
-          <entry key="py" value="61" />
+          <entry key="py" value="65" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="61" />
+          <entry key="Python" value="65" />
         </counts>
       </usages-collector>
     </session>
@@ -91,18 +95,56 @@
         <entry file="file://$PROJECT_DIR$/Imports.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="5" />
+              <caret selection-end-line="4" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PCA_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PCA_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Eigenface_PCA.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="36" />
+              <folding>
+                <element signature="e#1#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Movie_Review.py">
+        <entry file="file://$PROJECT_DIR$/Eigenface_NMF.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+            <state relative-caret-position="256">
+              <caret line="48" column="48" lean-forward="true" selection-start-line="48" selection-start-column="48" selection-end-line="48" selection-end-column="48" />
               <folding>
-                <element signature="e#0#35#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -123,11 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/forge_Dataset.py" />
-        <option value="$PROJECT_DIR$/k-NN-2.py" />
-        <option value="$PROJECT_DIR$/venv/cancer_Dataset.py" />
-        <option value="$PROJECT_DIR$/Cancer_Dataset.py" />
-        <option value="$PROJECT_DIR$/Boston_Housing_Dataset.py" />
         <option value="$PROJECT_DIR$/k-NN_Classification_1.py" />
         <option value="$PROJECT_DIR$/k-NN_Classification_2.py" />
         <option value="$PROJECT_DIR$/Wave_Dataset.py" />
@@ -174,10 +211,15 @@
         <option value="$PROJECT_DIR$/Pipeline_1.py" />
         <option value="$PROJECT_DIR$/Pipeline_2.py" />
         <option value="$PROJECT_DIR$/Movie_Review.py" />
+        <option value="$PROJECT_DIR$/PCA.py" />
+        <option value="$PROJECT_DIR$/PCA_2.py" />
+        <option value="$PROJECT_DIR$/Eigenface.py" />
+        <option value="$PROJECT_DIR$/Eigenface_PCA.py" />
+        <option value="$PROJECT_DIR$/Eigenface_NMF.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="950" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
@@ -187,7 +229,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -203,6 +244,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -221,8 +263,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Movie_Review">
-    <configuration name="Cross_Validation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Eigenface_NMF">
+    <configuration name="Eigenface" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine_Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -234,7 +276,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cross_Validation.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\enflw\PyCharmProjects\Machine_Learning\Eigenface_PCA.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,7 +285,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Grid_Search_CV" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Eigenface_NMF" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine_Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,7 +297,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\enflw\PyCharmProjects\Machine_Learning\Pipeline_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Eigenface_NMF.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,7 +327,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Pipeline" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PCA" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine_Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -297,7 +339,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\enflw\PyCharmProjects\Machine_Learning\Pipeline_1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\enflw\PyCharmProjects\Machine_Learning\PCA_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -306,7 +348,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Pipeline_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PCA_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine_Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -318,7 +360,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pipeline_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PCA_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -328,19 +370,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Cross_Validation" />
-      <item itemvalue="Python.Grid_Search_CV" />
-      <item itemvalue="Python.Pipeline" />
-      <item itemvalue="Python.Pipeline_2" />
       <item itemvalue="Python.Movie_Review" />
+      <item itemvalue="Python.PCA" />
+      <item itemvalue="Python.PCA_2" />
+      <item itemvalue="Python.Eigenface" />
+      <item itemvalue="Python.Eigenface_NMF" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Eigenface_NMF" />
+        <item itemvalue="Python.Eigenface" />
+        <item itemvalue="Python.PCA_2" />
+        <item itemvalue="Python.PCA" />
         <item itemvalue="Python.Movie_Review" />
-        <item itemvalue="Python.Pipeline_2" />
-        <item itemvalue="Python.Pipeline" />
-        <item itemvalue="Python.Grid_Search_CV" />
-        <item itemvalue="Python.Cross_Validation" />
       </list>
     </recent_temporary>
   </component>
@@ -348,14 +390,14 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="760" y="0" width="784" height="832" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19009371" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14342366" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32506886" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32240438" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -371,7 +413,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/cancer_Dataset.py" />
     <entry file="file://$PROJECT_DIR$/Boston_Housing_Dataset.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -616,9 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="53" selection-start-line="16" selection-end-line="19" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -626,9 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="52" lean-forward="true" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
-          <folding>
-            <element signature="e#1#48#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -636,9 +671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -653,9 +685,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -670,25 +699,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Movie_Review.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="65" lean-forward="true" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Imports.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="5" />
+          <caret selection-end-line="4" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Movie_Review.py">
+    <entry file="file://$PROJECT_DIR$/PCA_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PCA_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Eigenface_PCA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="e#1#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Eigenface_NMF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="48" column="48" lean-forward="true" selection-start-line="48" selection-start-column="48" selection-end-line="48" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
