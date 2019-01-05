@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="575e72ee-bb24-4f51-9867-089a090d2162" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/One_Hot_Encoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cross_Validation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/One_Hot_Encoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/One_Hot_Encoding.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,26 +62,26 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="147" />
-          <entry key="py" value="19590" />
+          <entry key="py" value="19849" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="147" />
-          <entry key="Python" value="19590" />
+          <entry key="Python" value="19849" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="dot" value="1" />
           <entry key="md" value="2" />
-          <entry key="py" value="57" />
+          <entry key="py" value="58" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="57" />
+          <entry key="Python" value="58" />
         </counts>
       </usages-collector>
     </session>
@@ -91,7 +92,7 @@
         <entry file="file://$PROJECT_DIR$/Imports.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="4" selection-end-column="14" />
+              <caret lean-forward="true" selection-end-line="5" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -100,24 +101,20 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Predict_Probability_2.py">
+        <entry file="file://$PROJECT_DIR$/One_Hot_Encoding.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="38">
+              <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/One_Hot_Encoding.py">
+        <entry file="file://$PROJECT_DIR$/Cross_Validation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+            <state>
               <folding>
-                <element signature="e#0#35#0" expanded="true" />
+                <element signature="e#0#51#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -138,7 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Panda.py" />
         <option value="$PROJECT_DIR$/Supervised.py" />
         <option value="$PROJECT_DIR$/Binary_Classification.py" />
         <option value="$PROJECT_DIR$/k-NN.py" />
@@ -189,6 +185,7 @@
         <option value="$PROJECT_DIR$/Predict_Probability_2.py" />
         <option value="$PROJECT_DIR$/Data_Preprocessing.py" />
         <option value="$PROJECT_DIR$/One_Hot_Encoding.py" />
+        <option value="$PROJECT_DIR$/Cross_Validation.py" />
       </list>
     </option>
   </component>
@@ -236,7 +233,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.One_Hot_Encoding">
+  <component name="RunManager" selected="Python.Cross_Validation">
+    <configuration name="Cross_Validation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Machine_Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cross_Validation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Data_Preprocessing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine_Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -271,27 +289,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Decistion_Function_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Multiple_Classification_Uncertainty" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Machine_Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\enflw\PyCharmProjects\Machine_Learning\Decistion_Function_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -343,19 +340,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Multiple_Classification_Uncertainty" />
       <item itemvalue="Python.Decistion_Function_2" />
       <item itemvalue="Python.Predict_Probability_2" />
       <item itemvalue="Python.Data_Preprocessing" />
       <item itemvalue="Python.One_Hot_Encoding" />
+      <item itemvalue="Python.Cross_Validation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Cross_Validation" />
         <item itemvalue="Python.One_Hot_Encoding" />
         <item itemvalue="Python.Data_Preprocessing" />
         <item itemvalue="Python.Predict_Probability_2" />
         <item itemvalue="Python.Decistion_Function_2" />
-        <item itemvalue="Python.Multiple_Classification_Uncertainty" />
       </list>
     </recent_temporary>
   </component>
@@ -637,16 +634,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Imports.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Data_Preprocessing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -667,12 +654,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/One_Hot_Encoding.py">
+    <entry file="file://$PROJECT_DIR$/Imports.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+        <state>
+          <caret lean-forward="true" selection-end-line="5" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/One_Hot_Encoding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cross_Validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
           </folding>
         </state>
       </provider>
