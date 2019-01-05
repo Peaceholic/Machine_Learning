@@ -1,11 +1,5 @@
-from IPython.display import display
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-import mglearn
 from sklearn.datasets import load_breast_cancer
 from sklearn.model_selection import train_test_split
-from sklearn.svm import SVC
 from sklearn.preprocessing import MinMaxScaler
 
 cancer = load_breast_cancer()
