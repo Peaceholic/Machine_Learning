@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="575e72ee-bb24-4f51-9867-089a090d2162" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Agglomerative_Clustering_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Agglomerative_Clustering_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ARI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DBSCAN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eigenface_Clustering_Agglomerative.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eigenface_Clustering_DBSCAN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eigenface_Clustering_KMean.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k-Means_Clustering_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/k-Means_Clustering_2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,27 +64,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="167" />
-          <entry key="py" value="28785" />
+          <entry key="dummy" value="185" />
+          <entry key="py" value="31645" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="167" />
-          <entry key="Python" value="28785" />
+          <entry key="PLAIN_TEXT" value="185" />
+          <entry key="Python" value="31645" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="dot" value="1" />
           <entry key="md" value="2" />
-          <entry key="py" value="72" />
+          <entry key="py" value="78" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="72" />
+          <entry key="Python" value="78" />
         </counts>
       </usages-collector>
     </session>
@@ -94,24 +96,54 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret selection-end-line="4" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/k-Means_Clustering_1.py">
+        <entry file="file://$PROJECT_DIR$/DBSCAN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="34" />
+            <state>
+              <caret selection-end-column="34" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/k-Means_Clustering_2.py">
+        <entry file="file://$PROJECT_DIR$/ARI.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
-              <caret line="13" column="55" lean-forward="true" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Eigenface_NMF.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="6" selection-end-line="20" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Eigenface_Clustering_DBSCAN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="23" selection-start-line="23" selection-end-line="25" selection-end-column="31" />
               <folding>
                 <element signature="e#1#19#0" expanded="true" />
               </folding>
@@ -120,24 +152,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Agglomerative_Clustering_1.py">
+        <entry file="file://$PROJECT_DIR$/Eigenface_Clustering_KMean.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="3" selection-end-column="39" />
+            <state relative-caret-position="361">
+              <caret line="25" column="31" lean-forward="true" selection-start-line="7" selection-end-line="25" selection-end-column="31" />
               <folding>
-                <element signature="e#1#32#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Agglomerative_Clustering_2.py">
+        <entry file="file://$PROJECT_DIR$/Eigenface_Clustering_Agglomerative.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            <state relative-caret-position="285">
+              <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
               <folding>
-                <element signature="e#0#31#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -158,12 +190,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Linear_Regression_1.py" />
-        <option value="$PROJECT_DIR$/Iris.py" />
-        <option value="$PROJECT_DIR$/k-NN_Regression.py" />
-        <option value="$PROJECT_DIR$/Linear_Regression_2.py" />
-        <option value="$PROJECT_DIR$/Ridge_Regression.py" />
-        <option value="$PROJECT_DIR$/Ridge.py" />
         <option value="$PROJECT_DIR$/Lasso.py" />
         <option value="$PROJECT_DIR$/Linear_Classification.py" />
         <option value="$PROJECT_DIR$/Logistic_Regression.py" />
@@ -209,6 +235,12 @@
         <option value="$PROJECT_DIR$/Imports.py" />
         <option value="$PROJECT_DIR$/Agglomerative_Clustering.py" />
         <option value="$PROJECT_DIR$/Agglomerative_Clustering_2.py" />
+        <option value="$PROJECT_DIR$/DBSCAM.py" />
+        <option value="$PROJECT_DIR$/DBSCAN.py" />
+        <option value="$PROJECT_DIR$/ARI.py" />
+        <option value="$PROJECT_DIR$/Eigenface_Clustering_Comparison.py" />
+        <option value="$PROJECT_DIR$/Eigenface_Clustering_KMean.py" />
+        <option value="$PROJECT_DIR$/Eigenface_Clustering_Agglomerative.py" />
       </list>
     </option>
   </component>
@@ -256,8 +288,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Agglomerative_Clustering_2">
-    <configuration name="Agglomerative_Clustering" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Eigenface_Clustering_Agglomerative">
+    <configuration name="ARI" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine_Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -269,7 +301,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\enflw\PyCharmProjects\Machine_Learning\Agglomerative_Clustering_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ARI.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -278,7 +310,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Agglomerative_Clustering_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DBSCAN" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine_Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -290,7 +322,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Agglomerative_Clustering_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DBSCAN.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,7 +331,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="k-Means_Clustering" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Eigenface_Clustering_Agglomerative" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine_Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -311,7 +343,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\enflw\PyCharmProjects\Machine_Learning\k-Means_Clustering_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Eigenface_Clustering_Agglomerative.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -320,7 +352,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="k-Means_Clustering_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Eigenface_Clustering_Comparison" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine_Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -332,7 +364,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/k-Means_Clustering_2.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\enflw\PyCharmProjects\Machine_Learning\Eigenface_Clustering_DBSCAN.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -341,7 +373,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="t-SNE" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Eigenface_Clustering_KMean" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine_Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -353,7 +385,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t-SNE.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Eigenface_Clustering_KMean.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -363,19 +395,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.t-SNE" />
-      <item itemvalue="Python.k-Means_Clustering" />
-      <item itemvalue="Python.k-Means_Clustering_2" />
-      <item itemvalue="Python.Agglomerative_Clustering" />
-      <item itemvalue="Python.Agglomerative_Clustering_2" />
+      <item itemvalue="Python.DBSCAN" />
+      <item itemvalue="Python.ARI" />
+      <item itemvalue="Python.Eigenface_Clustering_Comparison" />
+      <item itemvalue="Python.Eigenface_Clustering_KMean" />
+      <item itemvalue="Python.Eigenface_Clustering_Agglomerative" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Agglomerative_Clustering_2" />
-        <item itemvalue="Python.Agglomerative_Clustering" />
-        <item itemvalue="Python.k-Means_Clustering_2" />
-        <item itemvalue="Python.k-Means_Clustering" />
-        <item itemvalue="Python.t-SNE" />
+        <item itemvalue="Python.Eigenface_Clustering_Agglomerative" />
+        <item itemvalue="Python.Eigenface_Clustering_KMean" />
+        <item itemvalue="Python.Eigenface_Clustering_Comparison" />
+        <item itemvalue="Python.ARI" />
+        <item itemvalue="Python.DBSCAN" />
       </list>
     </recent_temporary>
   </component>
@@ -383,7 +415,7 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14342366" />
@@ -406,35 +438,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Wave_Dataset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scipy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Regression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/k-NN_Classification_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Panda.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -687,40 +690,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/k-Means_Clustering_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Eigenface_NMF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="55" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/k-Means_Clustering_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="55" lean-forward="true" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
-          <folding>
-            <element signature="e#1#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Imports.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Agglomerative_Clustering_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -737,6 +706,90 @@
           <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/k-Means_Clustering_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/k-Means_Clustering_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ARI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Imports.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Eigenface_NMF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="6" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBSCAN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="34" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Eigenface_Clustering_DBSCAN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="23" selection-start-line="23" selection-end-line="25" selection-end-column="31" />
+          <folding>
+            <element signature="e#1#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Eigenface_Clustering_KMean.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="25" column="31" lean-forward="true" selection-start-line="7" selection-end-line="25" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Eigenface_Clustering_Agglomerative.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
