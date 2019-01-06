@@ -1,8 +1,5 @@
-from IPython.display import display
 import numpy as np
 import matplotlib.pyplot as plt
-import pandas as pd
-import mglearn
 from sklearn.model_selection import train_test_split
 from sklearn.datasets import fetch_lfw_people
 from sklearn.decomposition import NMF
