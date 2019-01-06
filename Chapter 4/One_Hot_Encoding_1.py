@@ -20,3 +20,9 @@ display(data.head())
 print("Original Features:\n", list(data.columns), "\n")
 data_dummies = pd.get_dummies(data)
 print("After Features:\n", list(data_dummies.columns))
+
+features = data_dummies.loc[:, 'age':'occupation_ Transport-moving']
+X = features.values
+y = data_dummies['income_ >50K'].values
+
+print("X.shape: {} y,shape: {}".format(X.shape, y.shape))
