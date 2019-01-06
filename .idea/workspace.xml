@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="575e72ee-bb24-4f51-9867-089a090d2162" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter 4/Iterative_Feature_Selection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 4/Model_Based_Selection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 4/Non_Linear_Conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 4/Univariate_Statistics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4/Andy_Bike.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,7 +50,7 @@
     <session id="1553560794">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="10" />
           <entry key="project.open.time.5" value="2" />
@@ -64,26 +61,26 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="189" />
-          <entry key="py" value="36623" />
+          <entry key="py" value="37995" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="189" />
-          <entry key="Python" value="36623" />
+          <entry key="Python" value="37995" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="dot" value="1" />
           <entry key="md" value="2" />
-          <entry key="py" value="98" />
+          <entry key="py" value="106" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="98" />
+          <entry key="Python" value="106" />
         </counts>
       </usages-collector>
     </session>
@@ -91,31 +88,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 4/Non_Linear_Conversion.py">
+        <entry file="file://$PROJECT_DIR$/Chapter 4/Iterative_Feature_Selection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="532">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
               <folding>
-                <element signature="e#0#35#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 4/Univariate_Statistics.py">
+        <entry file="file://$PROJECT_DIR$/Chapter 4/Interaction_And_Polynomial_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 4/Model_Based_Selection.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" selection-start-line="8" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="256">
+              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -124,24 +112,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter 4/Iterative_Feature_Selection.py">
+        <entry file="file://$PROJECT_DIR$/Chapter 4/Andy_Bike.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 1/Imports.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="4" selection-end-column="14" />
+            <state relative-caret-position="549">
+              <caret line="50" column="48" lean-forward="true" selection-start-line="50" selection-start-column="48" selection-end-line="50" selection-end-column="48" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
+                <marker date="1546795427202" expanded="true" signature="501:506" ph="..." />
               </folding>
             </state>
           </provider>
@@ -162,7 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Random_Forest_1.py" />
         <option value="$PROJECT_DIR$/Random_Forest_2.py" />
         <option value="$PROJECT_DIR$/Gradient_Boosting.py" />
         <option value="$PROJECT_DIR$/Non_Linear.py" />
@@ -213,6 +189,7 @@
         <option value="$PROJECT_DIR$/Chapter 4/Univariate_Statistics.py" />
         <option value="$PROJECT_DIR$/Chapter 4/Model_Based_Selection.py" />
         <option value="$PROJECT_DIR$/Chapter 4/Iterative_Feature_Selection.py" />
+        <option value="$PROJECT_DIR$/Chapter 4/Andy_Bike.py" />
       </list>
     </option>
   </component>
@@ -265,8 +242,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Iterative_Feature_Selection">
-    <configuration name="Interaction_And_Polynomial_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Andy_Bike">
+    <configuration name="Andy_Bike" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine_Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -278,7 +255,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 4/Interaction_And_Polynomial_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 4/Andy_Bike.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -372,19 +349,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Interaction_And_Polynomial_2" />
       <item itemvalue="Python.Non_Linear_Conversion" />
       <item itemvalue="Python.Univariate_Statistics" />
       <item itemvalue="Python.Model_Based_Selection" />
       <item itemvalue="Python.Iterative_Feature_Selection" />
+      <item itemvalue="Python.Andy_Bike" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Andy_Bike" />
         <item itemvalue="Python.Iterative_Feature_Selection" />
         <item itemvalue="Python.Model_Based_Selection" />
         <item itemvalue="Python.Univariate_Statistics" />
         <item itemvalue="Python.Non_Linear_Conversion" />
-        <item itemvalue="Python.Interaction_And_Polynomial_2" />
       </list>
     </recent_temporary>
   </component>
@@ -399,7 +376,7 @@
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32240438" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32240438" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -415,13 +392,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BernoulliNB.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/sklearn/ensemble/weight_boosting.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -717,12 +687,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 1/Imports.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="4" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 4/One_Hot_Encoding_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 4/One_Hot_Encoding_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 4/Univariate_Statistics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 4/Non_Linear_Conversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 4/Model_Based_Selection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 4/Iterative_Feature_Selection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -747,56 +771,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4/One_Hot_Encoding_1.py">
+    <entry file="file://$PROJECT_DIR$/Chapter 4/Andy_Bike.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162">
-          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4/Non_Linear_Conversion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="549">
+          <caret line="50" column="48" lean-forward="true" selection-start-line="50" selection-start-column="48" selection-end-line="50" selection-end-column="48" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 1/Imports.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4/Univariate_Statistics.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4/Model_Based_Selection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 4/Iterative_Feature_Selection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <marker date="1546795427202" expanded="true" signature="501:506" ph="..." />
           </folding>
         </state>
       </provider>
