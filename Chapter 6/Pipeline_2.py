@@ -1,8 +1,3 @@
-from IPython.display import display
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-import mglearn
 from sklearn.model_selection import GridSearchCV
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import MinMaxScaler
