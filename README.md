@@ -1,2 +1,2 @@
-# Machine_Learning
+# machine-learning
 Practice for ML with Python
