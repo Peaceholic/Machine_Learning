@@ -1,2 +1,2 @@
-# machine-learning
-Practice for ML with Python
+# machine-learning-study
+Machine Learning practice in scikit-learn
