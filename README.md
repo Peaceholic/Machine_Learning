@@ -1,2 +1,2 @@
 # machine-learning-study
-Machine Learning practice in scikit-learn.
+These are practical code for Machine Learning study in scikit-learn.
